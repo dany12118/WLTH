@@ -1,9 +1,10 @@
-
+import app from "./app.css"
 
 function App() {
   return (
     <div className="App">
-      <div>App class</div>
+      <div className="header">
+      Wealth project</div>
     </div>
   );
 }
