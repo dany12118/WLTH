@@ -2,8 +2,8 @@ import React from 'react'
 import CaseList from '../scenes/CaseList/CaseList'
 
  const Home=()=>{
-    return (<div>
-        <CaseList />
+    return (<div display="flex">
+        DHANAPPA
         </div>
     )
 }

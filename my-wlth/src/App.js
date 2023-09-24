@@ -2,7 +2,7 @@
 import { Routes , Route} from "react-router-dom";
 import { useState } from "react";
 import Sidebar from "./scenes/global/Sidebar"
-import Home from "./pages/home";
+import Home from "./pages/Home";
 
 function App() {
   // State to control the sidebar's visibility
@@ -24,7 +24,6 @@ function App() {
         </Routes>
         </main>
       </div>
-
       {/* Uncomment the following lines if you're using Material-UI's ThemeProvider */}
       {/* </ThemeProvider> */}
     </>
